@@ -1,0 +1,26 @@
+{
+  "name": "tcheck",
+  "version": "0.1.0",
+  "description": "Lightweight type check library for JavaScript",
+  "main": "lib/tcheck.js",
+  "keywords": [
+    "type",
+    "check",
+    "typecheck"
+  ],
+  "author": "Muslim Idris <gelamu@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Muslim-Idris/node-tcheck"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/Muslim-Idris/node-tcheck/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">=0.4"
+  },
+  "readmeFilename": "README.md"
+}
